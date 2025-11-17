@@ -1,5 +1,8 @@
+This project is built with Vite, React 19, Tailwind CSS v4 and GSAP
+
 LIVE ON VERCEL:
 gsap-cocktails-black-one.vercel.app
+
 
 # React + Vite
 
